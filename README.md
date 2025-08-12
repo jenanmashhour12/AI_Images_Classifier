@@ -21,7 +21,7 @@ requirements.txt # dependencies for pip
 
 ## Quick Start
 ```bash
-pip install -r requirements.txt # somw libraries we've used
+pip install -r requirements.txt # some libraries we've used
 python main.py               # run all models
 
 ''' when u run python main.py --model all:
